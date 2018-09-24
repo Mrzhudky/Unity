@@ -1,0 +1,9 @@
+K:\Code\JustForJoy\My2048\My2048\bin\Debug\My2048.exe.config
+K:\Code\JustForJoy\My2048\My2048\bin\Debug\My2048.exe
+K:\Code\JustForJoy\My2048\My2048\bin\Debug\My2048.pdb
+K:\Code\JustForJoy\My2048\My2048\obj\Debug\My2048.csprojResolveAssemblyReference.cache
+K:\Code\JustForJoy\My2048\My2048\obj\Debug\My2048.Form1.resources
+K:\Code\JustForJoy\My2048\My2048\obj\Debug\My2048.Properties.Resources.resources
+K:\Code\JustForJoy\My2048\My2048\obj\Debug\My2048.csproj.GenerateResource.Cache
+K:\Code\JustForJoy\My2048\My2048\obj\Debug\My2048.exe
+K:\Code\JustForJoy\My2048\My2048\obj\Debug\My2048.pdb
